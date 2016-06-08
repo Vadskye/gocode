@@ -1,9 +1,7 @@
 package main
 
 import (
-	"flag"
 	"fmt"
-	"path/filepath"
 	"syscall"
 	"unsafe"
 )
